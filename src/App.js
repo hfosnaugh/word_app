@@ -1,4 +1,3 @@
-//import React from 'react'; maybe pointless
 import { Routes, Route } from 'react-router-dom';
 import Layout from './pages/Layout.js';
 import HomePage from './pages/HomePage.js';
