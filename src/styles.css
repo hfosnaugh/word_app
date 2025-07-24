@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+/*
+probably still needs some work
+the dot styles elements, defaults are just standard html styles
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+} */
+
+nav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Or display: inline-flex; */
+  justify-content: space-around; /*Distributes items evenly*/
+}
+
+.Link{
+  display: block;
+  color: #61dafb;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Link:hover {
+  color: #21a1f1;
+}
