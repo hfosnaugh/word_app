@@ -36,6 +36,10 @@ nav ul {
   justify-content: space-around; /*Distributes items evenly*/
 }
 
+.wrapper {
+    text-align: center;
+}
+
 .Link{
   display: block;
   color: #61dafb;

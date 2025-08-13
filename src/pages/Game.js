@@ -1,5 +1,5 @@
 const Game = () => {
-  return <h1 class='display-2'>Game</h1>;
+  return <h1 style={{ textAlign: "center" }} className='display-2'>Game</h1>;
 };
 
 export default Game;
