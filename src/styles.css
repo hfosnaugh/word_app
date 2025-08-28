@@ -23,6 +23,13 @@ the dot styles elements, defaults are just standard html styles
   color: #61dafb;
 } */
 
+.container {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 nav {
   background-color: #333;
   overflow: hidden;
