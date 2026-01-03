@@ -40,6 +40,10 @@ nav ul {
     text-align: center;
 }
 
+.game-wrapper {
+    text-align: right;
+}
+
 .Link{
   display: block;
   color: #61dafb;
